@@ -2342,6 +2342,16 @@
               <FileType>5</FileType>
               <FilePath>.\doorlock_sim.h</FilePath>
             </File>
+            <File>
+              <FileName>utils.cpp</FileName>
+              <FileType>8</FileType>
+              <FilePath>.\utils.cpp</FilePath>
+            </File>
+            <File>
+              <FileName>utils.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\utils.h</FilePath>
+            </File>
           </Files>
         </Group>
       </Groups>
